@@ -28,11 +28,11 @@ The logging module (usually included in Python standard library)
 
     Usage:
 
-Clone this repository and navigate to the directory containing the script: srvAUDIT_linux.py.
+Clone this repository and navigate to the directory containing the script: srvAUDIT_linux.py
 Ensure Python 3 is installed on your Linux server.
 Run the script using Python 3:
 
-    python3 srvAUDIT_linux.py.
+    python3 srvAUDIT_linux.py
 
     Note: This script should be used responsibly and with proper authorization. Review the generated report and take necessary actions to address any identified security concerns.
 */*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*
@@ -52,7 +52,13 @@ Clone this repository and navigate to the directory containing the script: srvAU
 Ensure Python 3 is installed on your Windows server.
 Run the script using Python 3:
 
-    python3 srvAUDIT_windows.py.
+    python3 srvAUDIT_windows.py
+
+*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*
+
+    Installer
+
+So if you want, you can use these scripts "srvAUDIT_ins.sh and srvAUDIT_ins.bat" to have them install all required dependencies on your host, or you can install them manually.
 
     Note: This script should be used responsibly and with proper authorization. Review the generated report and take necessary actions to address any identified security concerns.
 
