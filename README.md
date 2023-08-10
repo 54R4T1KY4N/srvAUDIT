@@ -12,8 +12,10 @@
 # srvAUDIT
 This repository contains two Python scripts designed to perform fast and comprehensive security audits on Linux and Windows servers. The scripts systematically execute a series of commands to gather essential system information, identify potential vulnerabilities, and generate detailed audit reports.
 
-  Below are descriptions for each script, along with the required software dependencies for running them:
+*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*
 
+    Below are descriptions for each script, along with the required software dependencies for running them:
+*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*
     1. Linux Server Security Audit Script
 
 The Linux server security audit script performs a thorough examination of various aspects of a Linux server's configuration, helping identify security vulnerabilities and ensuring a robust server setup. This script requires the following software dependencies on the Linux system:
@@ -33,7 +35,7 @@ Run the script using Python 3:
     python3 srvAUDIT_linux.py.
 
     Note: This script should be used responsibly and with proper authorization. Review the generated report and take necessary actions to address any identified security concerns.
-
+*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*
     2. Windows Server Security Audit Script
 
 The Windows server security audit script performs a comprehensive audit of a Windows server's configuration, examining various critical aspects of the system to ensure its security. This script requires the following software dependencies on the Windows system:
